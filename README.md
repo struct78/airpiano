@@ -14,4 +14,6 @@ Play the piano with your Leap Motion controller and Ableton Live.
 
 You will need to create a [Virtual Midi port](https://www.ableton.com/en/help/article/using-virtual-MIDI-buses-live/) with the name "Ableton" for the project to work.
 
+## Video
+
 [![ScreenShot](http://struct.com.au/airpiano/img/airpiano.png)](http://youtu.be/hh9wKEZdoL4)
